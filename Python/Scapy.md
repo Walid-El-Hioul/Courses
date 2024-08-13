@@ -98,6 +98,4 @@ sniff(prn=detect_syn_flood, filter="tcp", timeout=60)
 
 - **Official Scapy Documentation:** <a href="https://scapy.readthedocs.io/en/latest/" target="_blank">Scapy Documentation</a>
 - **Scapy GitHub Repository:** <a href="https://github.com/secdev/scapy" target="_blank">Scapy on GitHub</a>
-- **Scapy Tutorials:** There are various tutorials online that cover advanced features and use cases.
 
-Feel free to ask if you need more details on any specific aspect or if you have a particular task in mind!
