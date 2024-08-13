@@ -8,6 +8,8 @@ Previously, you learned that the **Filesystem Hierarchy Standard (FHS)** is the 
 
 This diagram illustrates the hierarchy of relationships under the **FHS**:
 
+![illustrates the hierarchy of relationships under the **FHS**]([URL](https://github.com/Walid-El-Hioul/Courses/blob/main/GNU_Linux/Photos/Hierarchy_of_relationships_under_the_FHS.png))
+
 **Root Directory**
 The **root directory** is the highest-level directory in Linux, and it’s always represented with a forward slash (`/`). All subdirectories branch off the **root directory**. Subdirectories can continue branching out to as many levels as necessary.
 
