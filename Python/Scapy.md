@@ -1,5 +1,3 @@
-Sure, I'd be happy to help you get started with Scapy! Scapy is a powerful Python library used for network packet manipulation, analysis, and creation. It allows you to craft your own packets and interact with the network at a low level.
-
 ### Getting Started with Scapy
 
 #### 1. **Installation**
